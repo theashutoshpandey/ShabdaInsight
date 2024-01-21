@@ -41,8 +41,8 @@ ShabdaInsight is a Named Entity Recognizer (NER) application developed using Spr
    The application will be accessible at [http://localhost:8080](http://localhost:8080).
 
 ## Usage
-<img src="src/main/resources/image/name.png" alt="Name" width="500">
-<img src="src/main/resources/image/job.png" alt="Job" width="500">
+<img src="src/main/resources/image/name.png" alt="Name" width="300">
+<img src="src/main/resources/image/job.png" alt="Job" width="300">
 
 ## Configuration
 
